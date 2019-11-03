@@ -10,7 +10,7 @@ namespace solution25
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Holi");
+            Console.WriteLine("Holi mundo");
         }
     }
 }
